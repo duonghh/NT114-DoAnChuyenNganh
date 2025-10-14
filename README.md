@@ -18,4 +18,4 @@ The course emphasizes hands-on experience, independent thinking, and the integra
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com  
-- **🔗 System simulation video:** 
+- **🔗 System simulation video:** https://youtu.be/HEjKsaO-v5g
